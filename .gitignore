@@ -1,0 +1,10 @@
+ocr/noalpha
+ocr/inverted
+ocr/bordered
+data
+ocr/clarified
+*.swp
+__pycache__
+ocr/__pycache__
+output
+private.txt
